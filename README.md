@@ -1,9 +1,19 @@
 # express-error-handling
-This repository demonstrates error handling in Express.js, including the built-in error handler, custom error-handling middleware, and handling invalid routes (404).
+
+This repository demonstrates how to handle errors in **Express.js**, including:
+- Built-in error handling
+- Custom error middleware
+- Handling invalid routes (404)
+- Sending proper error responses (JSON)
 
 ---
 
 ## 📌 Features
+
+- Global 404 Not Found handler
+- Global error handling middleware
+- Throwing errors inside routes
+- Sending consistent error responses in JSON format
 
 ---
 
